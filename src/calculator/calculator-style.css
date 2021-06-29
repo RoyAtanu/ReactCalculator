@@ -1,0 +1,21 @@
+.button {
+    border-style: double;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.expression {
+    border-style: inset;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.result {
+    border-style: inset;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.history {
+    border-style: inset;
+    text-align: right;
+    white-space: pre-wrap;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
